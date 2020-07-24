@@ -1,0 +1,2 @@
+D:\-\helloworld\Debug\helloworld.exe
+D:\-\helloworld\Debug\helloworld.pdb
