@@ -1,0 +1,7 @@
+对于二维数组： int a[2][5];
+
+求数组元素的总数：sizeof(a)/sizeof(int)
+
+数组行数：(sizeof(a)/sizeof(int))/(sizeof(a[0])/sizeof(int))
+
+数组列数：(sizeof(a[0])/sizeof(int))
